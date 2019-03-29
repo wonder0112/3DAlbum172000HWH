@@ -23,6 +23,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:paddingBottom="20dp"
+        android:paddingBottom="0dp"
         ></TextSwitcher>
 </android.support.constraint.ConstraintLayout>
